@@ -1,7 +1,7 @@
 #include <cstdio>
 int main(){
 	while (233){
-		putchar('\\');
+		putchar('\\');// notice that here requires double '\' @BUG HUNTER233
 		putchar('\b');
 		putchar('|');
 		putchar('\b');
