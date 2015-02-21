@@ -11,3 +11,5 @@ Here it goes this list::
 >* First things first::UI design--including the places to place the elements
 
 >* NeXT::associate different functions.
+
+>* Optimizing efficiency
